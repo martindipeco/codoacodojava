@@ -1,7 +1,9 @@
 # Ignore everything
-*
+\*
+
 
 # Allow specific files and directories
+!.gitignore
 !C:\Users\W10-PC\OneDrive\Documentos\a\CS\CaC\mavenproject1\pom.xml
 !C:\Users\W10-PC\OneDrive\Documentos\a\CS\CaC\mavenproject1\src\main\java\misClases\
 !C:\Users\W10-PC\OneDrive\Documentos\a\CS\CaC\mavenproject1\src\main\webapp
